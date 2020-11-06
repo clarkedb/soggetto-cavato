@@ -34,19 +34,21 @@ python soggetto/soggeto.py
 
 The app with prompt the user for input. This can be any string of characters, but traditionally would be a name.
 
-```python
+```text
 >>> Please enter text to be encoded:
 ```
 
 Then the encoding is printed out and the an audio `.wav` file is stored with the motif from the text. For example for the input `Josquin des Prez`:
 
-```python
+```text
 >>> Josquin des Prez
 >>> Solfege: sol ut mi re re
 >>> Notes C G E D D
 ```
 
 with [this audio output](audio/josquin_example.wav).
+
+For more information on the audio exports, read the [Audio Output README](audio/README.md).
 
 ## Author
 
