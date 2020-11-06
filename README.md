@@ -16,6 +16,8 @@ Translated literally to:
 
 It takes the vowels from the text and maps each one to one of five solfege terms correpsonding to five notes.
 
+Read more about Soggetto Cavato [here](https://en.wikipedia.org/wiki/Soggetto_cavato).
+
 ## Running the Program
 
 Clone or download this repository:
