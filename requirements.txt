@@ -1,0 +1,5 @@
+# requirements for Soggetto Cavato
+
+matplotlib >= 3.3.2
+numpy >= 1.7.0
+scipy >= 1.4.1
