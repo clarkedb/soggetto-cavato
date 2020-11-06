@@ -1,0 +1,5 @@
+# do not track audio exports
+/audio/*.wav
+
+# do not track IDE files
+.vscode/

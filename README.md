@@ -1,0 +1,1 @@
+# Soggetto Cavato Encoder
