@@ -80,6 +80,7 @@ venv.bak/
 
 # do not track audio exports
 /audio/*.wav
+!/audio/josquin_example.wav
 
 # do not track IDE files
 .vscode/
