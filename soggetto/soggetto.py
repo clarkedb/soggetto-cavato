@@ -47,7 +47,7 @@ def main():
   """Accept user input, encode it, export the corresponding audio
   and print the encoding to console.
   """
-  text = input()
+  text = input('Please enter text to be encoded:\n')
 
   solfege, notes = encode_string(text)
   audio = audio_sequence(notes)
