@@ -24,6 +24,13 @@ Clone or download this repository:
 
 ```bash
 git clone https://github.com/clarkedb/soggetto-cavato.git
+cd soggetto-cavato
+```
+
+Install any missing required packages:
+
+```bash
+pip install -r requirements.txt
 ```
 
 Run the program in Python from the terminal:
